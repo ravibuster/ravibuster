@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravibuster
 - 👀 I’m interested in coding, playing sports.
-- 🌱 I’m currently learning Dsa, full stack.
+- 🌱 I’m currently learning Dsa, web developement.
 - 💞️ I’m looking to collaborate on creating unique projects.
 - 📫 How to reach me raviagrawalaeron@gmail.com
 - 😄 Pronouns: ...
